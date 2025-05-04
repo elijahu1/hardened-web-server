@@ -21,7 +21,7 @@ This repo contains all configuration files, scripts, and documentation you need 
 ## 🚀 Quickstart
 
 ```bash
-git clone https://github.com/your-org/hardened-web-server.git
+git clone https://github.com/elijahu1/hardened-web-server.git
 cd hardened-web-server
 
 chmod +x install.sh
